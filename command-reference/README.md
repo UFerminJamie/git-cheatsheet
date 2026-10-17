@@ -1,6 +1,6 @@
 # Git Command Encyclopedia — Complete Practical Reference
 
-> **Companion:** [Git Project Lifecycle Guide](../project-lifecycle/README.md) walks through a project from `mkdir` to shipping, reviewing, merging and recovery.
+> **Companion:** [Git Project Lifecycle Guide](project-lifecycle/README.md) walks through a project from `mkdir` to shipping, reviewing, merging and recovery.
 
 An extensive, searchable **Git + GitHub CLI** reference organized like [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands), with grouped command tables, realistic examples, warnings, and explanations. All commands run in a terminal. Commands prefixed with `gh` require the separate [GitHub CLI](https://cli.github.com/) tool; `git` itself does **not** create pull requests, issues, or hosted GitHub repositories.
 
