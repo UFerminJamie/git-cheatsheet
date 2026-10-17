@@ -1,6 +1,6 @@
 # Git Project Lifecycle — From Zero to Production and Recovery
 
-> **Companion reference:** [Git Command Encyclopedia](../command-reference/README.md) contains 400+ command examples organized into 30 grouped tables. This guide instead explains **when, why, and in what order to run them**.
+> **Companion reference:** [Git Command Encyclopedia](command-reference/README.md) contains 400+ command examples organized into 30 grouped tables. This guide instead explains **when, why, and in what order to run them**.
 
 A hands-on terminal guide following a project from its first directory, initial commit and GitHub repository to feature development, code review, PR comments, merges, releases, hotfixes and multiple kinds of rollback. Written for one developer and small teams; the same concepts apply to research, Python packages, websites and larger applications.
 
